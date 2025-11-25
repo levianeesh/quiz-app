@@ -39,12 +39,10 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 git clone https://github.com/levianeesh/quiz-app.git
+
 cd quiz-app
 
-
-Replace your-username and repo name with your actual GitHub details.
-
-2. Open the app
+3. Open the app
 
 You can open the app in any modern browser:
 
@@ -52,7 +50,9 @@ Option 1: Double-click index.html
 
 Option 2: Right-click index.html → Open with → your browser
 
-No extra setup or installations are required.🧠 How It Works
+No extra setup or installations are required.
+
+🧠 How It Works
 
 The quiz questions are stored in a JavaScript array inside script1.js:
 ```
