@@ -32,7 +32,7 @@ quiz-app/
 ├── style.css       # Styling for the app
 └── script1.js      # Quiz logic and interactivity
 
-
+```
 🚀 Getting Started
 
 Follow these steps to run the project locally:
@@ -54,7 +54,9 @@ Option 2: Right-click index.html → Open with → your browser
 
 No extra setup or installations are required.🧠 How It Works
 
-The quiz questions are stored in a JavaScript array inside script1.js:const questions = [
+The quiz questions are stored in a JavaScript array inside script1.js:
+```
+const questions = [
   {
     question: "What is the capital of France?",
     choices: ["Paris", "London", "Berlin", "Madrid"],
@@ -62,6 +64,7 @@ The quiz questions are stored in a JavaScript array inside script1.js:const ques
   },
   // more questions...
 ];
+```
 When the user clicks Start Quiz:
 
 The first question is displayed.
