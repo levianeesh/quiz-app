@@ -39,10 +39,9 @@ Follow these steps to run the project locally:
 
 1. Clone the repository
 git clone https://github.com/levianeesh/quiz-app.git
-
 cd quiz-app
 
-3. Open the app
+2. Open the app
 
 You can open the app in any modern browser:
 
